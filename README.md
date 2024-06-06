@@ -13,13 +13,13 @@ https://github.com/Prathamesh1102
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prathamesh1102](https://github.com/Prathamesh1102)
+- 👨‍💻 All of my projects are available at [https://github.com/Prathamesh1102](https://github.com/Prathamesh1102).
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MtSql.**
 
 - 📫 How to reach me **prathameshthorat50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13gfXYjLjZ-jhzPVrQ7-PbjiHq8Sn5XaR/view?usp=drive_link](https://drive.google.com/file/d/13gfXYjLjZ-jhzPVrQ7-PbjiHq8Sn5XaR/view?usp=drive_link)
+- 📄 Know about my experiences [ Resume ](https://drive.google.com/file/d/1eAuMUDUB2cV0P69qQK3g5ZvsXe1oUZ5s/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
