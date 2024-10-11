@@ -15,7 +15,7 @@ https://github.com/Prathamesh1102
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathamesh1102](https://github.com/Prathamesh1102).
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MtSql.**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, MySql.**
 
 - 📫 How to reach me **prathameshthorat50@gmail.com**
 
