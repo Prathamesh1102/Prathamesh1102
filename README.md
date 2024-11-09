@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/pratham92070701" target="blank"><img src="https://img.shields.io/twitter/follow/pratham92070701?logo=twitter&style=for-the-badge" alt="pratham92070701" /></a> </p>
 
-- 🔭 I’m currently working on **Tic Tac Toe Game Using React.**
+- 🔭 I’m currently working on **Swiggy Clone (Food Delivery App) Using React.**
 
 - 🌱 I’m currently learning **React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathamesh1102](https://github.com/Prathamesh1102).
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, MySql.**
+- 💬 Ask me about **React, HTML, CSS, JavaScript(+ES6), MySql, Linux, OS, Windows, Networking, CISCO, CyberSecurity.**
 
 - 📫 How to reach me **prathameshthorat50@gmail.com**
 
