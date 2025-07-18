@@ -3,24 +3,24 @@
 <br>https://github.com/Prathamesh1102</br>
 
 <h1 align="center">Hi 👋, I'm Prathamesh Thorat</h1>
-<h3 align="center">A passionate fronted developer from India </h3>
+<h3 align="center">A passionate into Cloud and Devops, from India </h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh1102&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh1102" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pratham92070701" target="blank"><img src="https://img.shields.io/twitter/follow/pratham92070701?logo=twitter&style=for-the-badge" alt="pratham92070701" /></a> </p>
 
-- 🔭 I’m currently working on **Swiggy Clone (Food Delivery App) Using React.**
+- 🔭 I’m currently working on **DevSecOps GitLab CI/CD Pipeline from Scratch**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathamesh1102](https://github.com/Prathamesh1102).
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript(+ES6), MySql, Linux, OS, Windows, Networking, CISCO, CyberSecurity.**
+- 💬 Ask me about **AWS, CI/CD Pipeline, Linux, Windows OS, GIT and GITHUB, GitLab, Docker, Terraform, Jenkins, Argo CD, Prometheus, Grafana, Python, Bash, DBMS React, HTML, CSS, JavaScript(+ES6), MySql, Networking, CISCO, CyberSecurity.**
 
 - 📫 How to reach me **prathameshthorat50@gmail.com**
 
-- 📄 Know about my experiences [ Resume ](https://drive.google.com/file/d/1eAuMUDUB2cV0P69qQK3g5ZvsXe1oUZ5s/view?usp=sharing).
+- 📄 Know about my experiences [ Resume ](https://drive.google.com/file/d/1CTjEU7uzWdflU84B4iol4Pet1BteMbvs/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
