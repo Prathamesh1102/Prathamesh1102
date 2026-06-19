@@ -10,13 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/pratham92070701" target="blank"><img src="https://img.shields.io/twitter/follow/pratham92070701?logo=twitter&style=for-the-badge" alt="pratham92070701" /></a> </p>
 
-- 🔭 I’m currently working on **DevSecOps GitLab CI/CD Pipeline from Scratch**
-
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **how we can integrate AI in Cloud/DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathamesh1102](https://github.com/Prathamesh1102).
 
-- 💬 Ask me about **AWS, CI/CD Pipeline, Linux, Windows OS, GIT and GITHUB, GitLab, Docker, Terraform, Jenkins, Argo CD, Prometheus, Grafana, Python, Bash, DBMS React, HTML, CSS, JavaScript(+ES6), MySql, Networking, CISCO, CyberSecurity.**
+- 💬 Ask me about **AWS, CI/CD Pipeline, Linux, Windows OS, Git, GitHub, GitLab, Docker, Terraform, Jenkins, Argo CD, Prometheus, Grafana, Python, Bash, DBMS, React, HTML, CSS, JavaScript(+ES6), MySQL, Networking, CISCO, CyberSecurity.**
 
 - 📫 How to reach me **prathameshthorat50@gmail.com**
 
