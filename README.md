@@ -1,16 +1,14 @@
 ![MasterHead](https://www.icegif.com/wp-content/uploads/2023/04/icegif-256.gif)
-<br><span></span></br>
-<br>https://github.com/Prathamesh1102</br>
 
 <h1 align="center">Hi 👋, I'm Prathamesh Thorat</h1>
-<h3 align="center">A passionate into Cloud and Devops, from India </h3>
+<h3 align="center">A passionate into Devops and Cloud, from India </h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh1102&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh1102" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pratham92070701" target="blank"><img src="https://img.shields.io/twitter/follow/pratham92070701?logo=twitter&style=for-the-badge" alt="pratham92070701" /></a> </p>
 
-- 🌱 I’m currently learning **how we can integrate AI in Cloud/DevOps**
+- 🌱 I’m currently learning **How can we integrate AI in Cloud/DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathamesh1102](https://github.com/Prathamesh1102).
 
